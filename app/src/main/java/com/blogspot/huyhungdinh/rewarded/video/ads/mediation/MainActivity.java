@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements RewardedVideoAdLi
 
     private void loadRewardedVideoAd() {
         btnShow.setEnabled(false);
-        mAd.loadAd("ca-app-pub-7569105197022776/9285042443", new AdRequest
+        mAd.loadAd("ca-app-pub-3940256099942544/5224354917", new AdRequest
                 .Builder()
                 //.addTestDevice("830FCD144DF96F856A87DF692B8FD991")
                 .build());
