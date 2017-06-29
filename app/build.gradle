@@ -39,5 +39,5 @@ dependencies {
     compile(name:'unity-ads', ext:'aar')
     compile 'com.google.ads.mediation:unity:2.1.0.0'
 
-    compile(name:'unity-2.1.0.0', ext:'aar')
+    //compile(name:'unity-2.1.0.0', ext:'aar')
 }
