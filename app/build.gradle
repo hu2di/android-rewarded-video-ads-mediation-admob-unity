@@ -37,7 +37,7 @@ dependencies {
     compile 'com.google.android.gms:play-services-ads:10.2.6'
 
     compile(name:'unity-ads', ext:'aar')
+    
     compile 'com.google.ads.mediation:unity:2.1.0.0'
-
     //compile(name:'unity-2.1.0.0', ext:'aar')
 }
